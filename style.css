@@ -62,6 +62,11 @@ main {
     margin-right: auto;
 }
 
+.card a:hover{
+    background-color: white;
+    color: black;
+}
+
 .orange-card {
     background-color: #E28525;
     /* border-top-left-radius: 8px;
